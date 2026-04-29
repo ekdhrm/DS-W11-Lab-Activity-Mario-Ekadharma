@@ -1,7 +1,10 @@
 <h1>Here goes the answer of Part G, Part H, Part I:</h1>
 
-<h2>Part G</h2>
-<p></p>
+<h2>Part E : LeafTraversal.java File</h2>
+
+<h2>Part F : BFSTreeversal.java File</h2>
+
+<h2>Part G : -</h2>
 
 <h2>Part H</h2>
 <p> Under what conditions would a pre-order and a breadth-first traversal be the same?</br><span>1. Linear Tree (Degenerate Tree);</br> 2. Single Node Tree;</br>3. Tree with <strong>only one left child</strong>.</span></p>
